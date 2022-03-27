@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 07457876-ed11-6ada-0955-950e3ad45d79
 resourcetype: Document
 title: 'Natural Gas in the New England Region: Implications for Offshore Wind Generation
   and Fuel Diversity'

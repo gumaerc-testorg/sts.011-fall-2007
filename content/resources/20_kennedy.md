@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 07457876-ed11-6ada-0955-950e3ad45d79
 resourcetype: Document
 title: Statement on the Cape Wind Project
 uid: 05a2e80f-af8f-45a3-2874-e3be99c1e72c

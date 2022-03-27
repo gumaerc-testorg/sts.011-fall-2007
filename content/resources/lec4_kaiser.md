@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e0a29f59-616c-bc64-78d4-3136597b2ff3
 resourcetype: Document
 title: '"Atomic Secrets," Physicists, and the Cold War'
 uid: 0994e77c-74d0-1ebc-c57f-8fd8ee68e971

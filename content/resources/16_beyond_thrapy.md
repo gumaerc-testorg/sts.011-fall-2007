@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 07457876-ed11-6ada-0955-950e3ad45d79
 resourcetype: Document
 title: 'Beyond Therapy: Biotechnology and the Pursuit of Happiness'
 uid: 046f46c7-4e53-ea6f-bae8-14094952b5b0

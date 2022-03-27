@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e0a29f59-616c-bc64-78d4-3136597b2ff3
 resourcetype: Document
 title: 'Cape Wind: Energy for Life'
 uid: 95e4318d-527c-b35f-2d62-cf8c52c21556

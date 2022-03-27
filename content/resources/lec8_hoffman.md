@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e0a29f59-616c-bc64-78d4-3136597b2ff3
 resourcetype: Document
 title: 'Engineering Ethics: The Challenger Accident'
 uid: 6026004a-0f1c-e460-257c-7ad89bea3506
