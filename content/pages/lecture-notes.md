@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides lecture notes from the course along with information
+  on lecture topics and lecturers.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -28,7 +30,7 @@ LECTURERS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-World War II: Hiroshima, Nagasaki ([PDF - 5.6 MB]({{< baseurl >}}/resources/lec2))
+World War II: Hiroshima, Nagasaki ({{% resource_link 6c9177b1-6054-61dd-4dfe-a5e5937cc7b2 "PDF - 5.6 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Dr. Brendan Foley
@@ -40,7 +42,7 @@ Dr. Brendan Foley
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Science, military research, and the national security state ([PDF]({{< baseurl >}}/resources/lec4_kaiser)) (Courtesy of Prof. David Kaiser. Used with permission.)
+Science, military research, and the national security state ({{% resource_link 0994e77c-74d0-1ebc-c57f-8fd8ee68e971 "PDF" %}}) (Courtesy of Prof. David Kaiser. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 Guest: [Prof. David Kaiser](http://web.mit.edu/dikaiser/www/)
@@ -52,7 +54,7 @@ Guest: [Prof. David Kaiser](http://web.mit.edu/dikaiser/www/)
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Military influence on American science ([PDF - 3.3 MB]({{< baseurl >}}/resources/lec5))
+Military influence on American science ({{% resource_link 7af72da5-5819-7cae-f0b6-c58e3bae429e "PDF - 3.3 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Dr. Brendan Foley
@@ -64,7 +66,7 @@ Dr. Brendan Foley
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Space program: Challenger and Columbia ([PDF - 2.0 MB]({{< baseurl >}}/resources/lec8_hoffman)) (Courtesy of Prof. Jeffrey Hoffman. Used with permission.)
+Space program: Challenger and Columbia ({{% resource_link 6026004a-0f1c-e460-257c-7ad89bea3506 "PDF - 2.0 MB" %}}) (Courtesy of Prof. Jeffrey Hoffman. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 Guest: [Prof. Jeffrey Hoffman](http://en.wikipedia.org/wiki/Jeffrey_A._Hoffman)
@@ -76,7 +78,7 @@ Guest: [Prof. Jeffrey Hoffman](http://en.wikipedia.org/wiki/Jeffrey_A._Hoffman)
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Climate change research ([PDF - 1.0 MB]({{< baseurl >}}/resources/lec19_curry)) (Courtesy of Dr. William Curry. Used with permission.)
+Climate change research ({{% resource_link cef3bdd4-694b-e368-30c4-f7e808fc2cfa "PDF - 1.0 MB" %}}) (Courtesy of Dr. William Curry. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 Guest: [Dr. William Curry](http://www.whoi.edu/science/GG/people/wcurry/index.htm), WHOI
@@ -88,7 +90,7 @@ Guest: [Dr. William Curry](http://www.whoi.edu/science/GG/people/wcurry/index.ht
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Alternatives to fossil fuels ([PDF - 3.3 MB]({{< baseurl >}}/resources/lec20_capewind)) (Courtesy of Cape Wind Associates, LLC. Used with permission.)
+Alternatives to fossil fuels ({{% resource_link 95e4318d-527c-b35f-2d62-cf8c52c21556 "PDF - 3.3 MB" %}}) (Courtesy of Cape Wind Associates, LLC. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 Guest: Mark Rogers, Communications Director, [Cape Wind](http://www.capewind.org/)

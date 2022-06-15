@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on requirements, grading, plagiarism, and the schedule of lecture topics and key
+  dates for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -98,7 +101,7 @@ Plagiarism
 
 Finally, a word about plagiarism. The MIT website says this about plagiarism: "Plagiarism is a very serious offense. If it is found that you have plagiarized — deliberately or inadvertently — you may face serious consequences. In some instances, plagiarism has meant that students have had to leave the institutions where they were studying. MIT addresses plagiarism and its consequences in [Policies and Procedures, section 10.](https://policies-procedures.mit.edu/academic-misconduct-and-dishonesty/procedures-dealing-student-academic-dishonesty) The best way to avoid plagiarism is to [cite your sources](http://libguides.mit.edu/citing) - both within the body of your paper and in a bibliography of sources you used at the end of your paper."
 
-See "Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students" (July 2007) for an excellent overview of these issues. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/academicintegrity/handbook/handbook.pdf))
+See "Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students" (July 2007) for an excellent overview of these issues. ([PDF](http://web.mit.edu/academicintegrity/handbook/handbook.pdf))
 
 Calendar
 --------

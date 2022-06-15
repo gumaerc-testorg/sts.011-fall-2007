@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides information on the readings assigned for the lecture
+  sessions. '
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -455,9 +457,9 @@ Guest lecturer: [Dr. William Curry](http://www.whoi.edu/science/GG/people/wcurry
 {{< tdopen >}}
 
 
-Intergovernmental Panel on Climate Change, 2007. "Summary for Policymakers." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.7 MB](http://web.archive.org/web/20090512153010/http://ipcc-wg1.ucar.edu/wg1/Report/AR4WG1_Print_SPM.pdf))
+Intergovernmental Panel on Climate Change, 2007. "Summary for Policymakers." ([PDF - 3.7 MB](http://web.archive.org/web/20090512153010/http://ipcc-wg1.ucar.edu/wg1/Report/AR4WG1_Print_SPM.pdf))
 
-———. "Intergovernmental Panel on Climate Change - Technical Summary." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 18.6 MB](http://web.archive.org/web/20090227015341/http://ipcc-wg1.ucar.edu/wg1/Report/AR4WG1_Print_TS.pdf)) \[Look over the table of contents, read the parts that catch your attention.\]
+———. "Intergovernmental Panel on Climate Change - Technical Summary." ([PDF - 18.6 MB](http://web.archive.org/web/20090227015341/http://ipcc-wg1.ucar.edu/wg1/Report/AR4WG1_Print_TS.pdf)) \[Look over the table of contents, read the parts that catch your attention.\]
 
 
 {{< tdclose >}}
@@ -481,15 +483,15 @@ Guest lecturer: Mark Rogers, Communications Director, [Cape Wind](http://www.cap
 
 Runge, C. Ford, and Benjamin Senauer. "[How Biofuels Could Starve the Poor](https://www.foreignaffairs.com/articles/2007-05-01/how-biofuels-could-starve-poor)." _Foreign Affairs_ 86 (May/June 2007): 41-54.
 
-Natural Resources Defense Council. "Nuclear Facts." (February 2007). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.nrdc.org/nuclear/plants/plants.pdf))
+Natural Resources Defense Council. "Nuclear Facts." (February 2007). ([PDF](http://www.nrdc.org/nuclear/plants/plants.pdf))
 
 Wald, Matthew. "[The Best Nuclear Option](https://www.technologyreview.com/2006/07/01/228702/the-best-nuclear-option/)." _Technology Review_ (July 1, 2006): 6 pages.
 
-U.S. Department of Energy White Paper. "Natural Gas in the New England Region: Implications for Offshore Wind Generation and Fuel Diversity" (2004). ([PDF]({{< baseurl >}}/resources/20_doe_wind))
+U.S. Department of Energy White Paper. "Natural Gas in the New England Region: Implications for Offshore Wind Generation and Fuel Diversity" (2004). ({{% resource_link b4b73d9e-758b-e4c7-6572-27acc56775e3 "PDF" %}})
 
 Cape Wind. "Comparison of Cape Wind Scientific Data Tower Wind Speed Data with ISO New England List of Top Ten Electric Demand Days." (July 2, 2007). ([PDF](https://offshorewindhub.org/resource/1156))
 
-Kennedy, Edward. "Statement on the Cape Wind Project." _U.S. Senate_ (May 9, 2006): 1-10. ([PDF]({{< baseurl >}}/resources/20_kennedy))
+Kennedy, Edward. "Statement on the Cape Wind Project." _U.S. Senate_ (May 9, 2006): 1-10. ({{% resource_link 05a2e80f-af8f-45a3-2874-e3be99c1e72c "PDF" %}})
 
 Daschle, Tom, C. Ford Runge, and Benjamin Senauer. "[Food for Fuel](https://www.foreignaffairs.com/articles/united-states/2007-09-01/food-fuel)?" _Foreign Affairs_ (September/October 2007).
 
@@ -513,7 +515,7 @@ Experimentation on human subjects
 {{< tdopen >}}
 
 
-"The Nuremberg Code," from _Trials of War Criminals Before the Nuremberg Military Tribunals_ Washington DC: U.S. Government Printing Office, 1949. ([PDF]({{< baseurl >}}/resources/21_nurembrg_code))
+"The Nuremberg Code," from _Trials of War Criminals Before the Nuremberg Military Tribunals_ Washington DC: U.S. Government Printing Office, 1949. ({{% resource_link cc8e8206-5652-9486-7530-6e0c44450aac "PDF" %}})
 
 Slater, Lauren. "Obscura: Stanley Milgram and Obedience to Authority." _In Opening Skinner's Box: Great Psychological Experiments of the Twentieth Century_. New York, NY: Norton, 2005. ISBN: 9780393326550.
 
@@ -587,7 +589,7 @@ Archaeological science: ethical conflicts and political choices in deep water ar
 
 Ballard, R. D., et al. "The Discovery of Ancient History in the Deep Sea Using Advanced Deep Submergence Technology." _Deep-Sea Research I_ 47 (2000): 1591-1620. \[1997 deep water project that raised political and ethical issues.\]
 
-Draft Convention on the Protection of Underwater Cultural Heritage. UNESCO, 2001. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://unesdoc.unesco.org/images/0012/001232/123278E.pdf))
+Draft Convention on the Protection of Underwater Cultural Heritage. UNESCO, 2001. ([PDF](http://unesdoc.unesco.org/images/0012/001232/123278E.pdf))
 
 
 {{< tdclose >}}
