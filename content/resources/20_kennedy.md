@@ -7,6 +7,7 @@ file: /courses/sts-011-american-science-ethical-conflicts-and-political-choices-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Statement on the Cape Wind Project
 uid: 05a2e80f-af8f-45a3-2874-e3be99c1e72c
 ---
 Reading assigned to accompany a lecture on alternatives to fossil fuels: Kennedy, Edward. "Statement on the Cape Wind Project." U.S. Senate (May 9, 2006): 1-10.
-

@@ -6,6 +6,7 @@ file: /courses/sts-011-american-science-ethical-conflicts-and-political-choices-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Cape Wind: Energy for Life'
 uid: 95e4318d-527c-b35f-2d62-cf8c52c21556
 ---
 Lecture presentation on alternatives to fossil fuels courtesy of Cape Wind Associates, LLC.
-

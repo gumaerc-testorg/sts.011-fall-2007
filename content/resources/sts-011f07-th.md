@@ -12,10 +12,10 @@ image_metadata:
   credit: ''
   image-alt: Sequence of four maps showing diminishing area of arctic ice coverage.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: sts-011f07-th.jpg
 uid: 6e8f90fc-298e-a6c1-e7ed-b60cb401be0e
 ---
 New image Upload
-

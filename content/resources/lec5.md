@@ -5,6 +5,7 @@ file: /courses/sts-011-american-science-ethical-conflicts-and-political-choices-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Cold War Science and Technology:Military-Industrial-University Complex
 uid: 7af72da5-5819-7cae-f0b6-c58e3bae429e
 ---
 Lecture presentation on military influence on American science.
-

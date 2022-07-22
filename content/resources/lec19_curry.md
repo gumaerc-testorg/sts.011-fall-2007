@@ -6,6 +6,7 @@ file: /courses/sts-011-american-science-ethical-conflicts-and-political-choices-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Media Contacts \u2013 Good, Bad, and Some Really Bad"
 uid: cef3bdd4-694b-e368-30c4-f7e808fc2cfa
 ---
 Lecture presentation on climate change research courtesy of Dr. William Curry of the Woods Hole Oceanographic Institution.
-

@@ -7,6 +7,7 @@ file: /courses/sts-011-american-science-ethical-conflicts-and-political-choices-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 'Natural Gas in the New England Region: Implications for Offshore Wind Ge
 uid: b4b73d9e-758b-e4c7-6572-27acc56775e3
 ---
 Reading assigned to accompany a lecture on alternatives to fossil fuels: U.S. Department of Energy White Paper. "Natural Gas in the New England Region: Implications for Offshore Wind Generation and Fuel Diversity" (2004).
-

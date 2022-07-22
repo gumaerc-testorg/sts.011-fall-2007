@@ -5,6 +5,7 @@ file: /courses/sts-011-american-science-ethical-conflicts-and-political-choices-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'World War II: A Technological and Psychological Turning Point?'
 uid: 6c9177b1-6054-61dd-4dfe-a5e5937cc7b2
 ---
 Lecture presentation on World War II, Hiroshima, and Nagasaki.
-
