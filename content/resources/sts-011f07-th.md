@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/6e8f90fc298ea6c1e7edb60cb401be0e_sts-011f07-th.jpg
+file: /courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/6e8f90fc298ea6c1e7edb60cb401be0e_sts-011f07-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'The science and politics of climate change are among the topics covered
@@ -11,7 +11,11 @@ image_metadata:
     years old. (Image courtesy of U.S. Department of Interior.)'
   credit: ''
   image-alt: Sequence of four maps showing diminishing area of arctic ice coverage.
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWImage
 resourcetype: Image
 title: sts-011f07-th.jpg
 uid: 6e8f90fc-298e-a6c1-e7ed-b60cb401be0e
 ---
+New image Upload
