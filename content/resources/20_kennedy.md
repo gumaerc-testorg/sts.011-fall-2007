@@ -4,6 +4,7 @@ description: 'Reading assigned to accompany a lecture on alternatives to fossil 
   Kennedy, Edward. "Statement on the Cape Wind Project." U.S. Senate (May 9, 2006):
   1-10.'
 file: /courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/05a2e80faf8f45a32874e3be99c1e72c_20_kennedy.pdf
+file_size: 111947
 file_type: application/pdf
 learning_resource_types:
 - Readings

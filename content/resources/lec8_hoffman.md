@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on engineering ethics and the Challenger accident
   courtesy of Prof. Jeffrey Hoffman.
 file: /courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/6026004a0f1ce460257c7ad89bea3506_lec8_hoffman.pdf
+file_size: 2120281
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
