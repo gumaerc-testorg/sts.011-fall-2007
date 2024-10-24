@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/6e8f90fc298ea6c1e7edb60cb401be0e_sts-011f07-th.jpg
+file: /ol-ocw-studio-app/courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/6e8f90fc298ea6c1e7edb60cb401be0e_sts-011f07-th.jpg
 file_size: 5831
 file_type: image/jpeg
 image_metadata:
