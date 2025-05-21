@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on science, military research, and the national
   security state courtesy of Prof. David Kaiser.
-file: /ol-ocw-studio-app/courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/0994e77c74d01ebcc57f8fd8ee68e971_lec4_kaiser.pdf
+file: /courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/0994e77c74d01ebcc57f8fd8ee68e971_lec4_kaiser.pdf
 file_size: 886211
 file_type: application/pdf
 learning_resource_types:
