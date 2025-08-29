@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on World War II, Hiroshima, and Nagasaki.
-file: /courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/6c9177b1605461dd4dfea5e5937cc7b2_lec2.pdf
+file: /ol-ocw-studio-app/courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/6c9177b1605461dd4dfea5e5937cc7b2_lec2.pdf
 file_size: 5859261
 file_type: application/pdf
 learning_resource_types:
