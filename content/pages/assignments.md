@@ -29,9 +29,9 @@ First citation from source:
 *   Cowan, Ruth Schwartz. _A Social History of Technology_. New York, NY: Oxford University Press, 1997, p. 253.
 *   Subsequent citations from same source: Cowan, p. 254.
 
-Be certain to correctly credit your sources. A guide from MIT Libraries is available [here](http://libguides.mit.edu/citing).
+Be certain to correctly credit your sources. A guide from MIT Libraries is available {{% resource_link "bca6ad94-5c2c-4ce3-a3cd-d364fb398cd0" "here" %}}.
 
-[Plagiarism](http://web.mit.edu/writing/Citation/plagiarism.html) is unacceptable, so please review its definition and procedures for avoiding it.
+{{% resource_link "bc156e27-e0c7-4450-91cb-a7257af72061" "Plagiarism" %}} is unacceptable, so please review its definition and procedures for avoiding it.
 
 Essay 1
 -------
